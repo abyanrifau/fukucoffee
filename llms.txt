@@ -1,0 +1,22 @@
+# Fuku Coffee
+
+> Fuku Coffee (福コーヒー) is a fictional business. This website is a design concept by Nuit Works (https://nuit.works), a web design studio. Fuku Coffee does not exist as a real café, and no bookings or orders can be made.
+
+In the concept, Fuku Coffee is a quiet, Japanese-influenced specialty coffee shop in Hulhumalé, Maldives, built around slow coffee, quiet spaces and honest materials.
+
+## Key facts (fictional)
+
+- Location: Hulhumalé, Maldives
+- Hours: Mon–Thu 7:00 AM–9:00 PM; Fri 2:00 PM–10:00 PM; Sat–Sun 7:00 AM–10:00 PM
+- Prices in MVR: espresso drinks MVR 40–70, teas MVR 40–45, pastries MVR 35–45, Japanese specials (matcha latte, hōjicha latte, yuzu espresso tonic) MVR 65–75
+- Events: Weekend Cupping (Saturdays, MVR 120), Pour-over Basics (monthly, MVR 350), a private back room for up to twelve
+- Around twenty-two seats
+
+## Pages
+
+- [Home](https://fukucoffee.nuit.works/): introduction, menu highlights and visit details
+- [Menu](https://fukucoffee.nuit.works/menu.html): coffee, tea, pastries and Japanese specials with prices
+- [Our Story](https://fukucoffee.nuit.works/story.html): philosophy, beans, brewing craft, the owner and the team
+- [Gallery](https://fukucoffee.nuit.works/gallery.html): photographs of the room, the bar and the drinks
+- [Events](https://fukucoffee.nuit.works/events.html): cuppings, workshops, private space and a demo reservation form
+- [Visit Us](https://fukucoffee.nuit.works/visit.html): location, hours and contact details (placeholders)

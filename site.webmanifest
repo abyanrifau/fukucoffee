@@ -1,0 +1,13 @@
+{
+  "name": "Fuku Coffee",
+  "short_name": "Fuku",
+  "description": "A Nuit Works concept: a fictional specialty coffee shop in Hulhumalé, Maldives.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f4f3",
+  "theme_color": "#f2f4f3",
+  "icons": [
+    { "src": "/favicon/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/favicon/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
